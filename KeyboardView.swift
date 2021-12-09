@@ -25,6 +25,7 @@ struct KeyboardView: View {
                                     }
                                 }
                             }
+                            .submitLabel(.search)
                     }
         }
 }
