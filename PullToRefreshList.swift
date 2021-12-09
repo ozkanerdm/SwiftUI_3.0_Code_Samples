@@ -1,8 +1,8 @@
 //
 //  PullToRefreshList.swift
-//  MediumApp
+//  Prepared for the SwiftUI 3.0 Medium Article
 //
-//  Created by Ozkan Erdem on 9.12.2021.
+//  Created by Ozkan Erdem.
 //
 
 import SwiftUI
